@@ -1,0 +1,1 @@
+python "E:\Side Projects\MobileShop Web Scrapper\scrapper.py"
